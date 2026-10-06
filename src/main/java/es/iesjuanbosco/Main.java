@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Variable para sacar el id
-        System.out.println("Introduce el id del usuario el cual quieras saber su telefono");
+        System.out.println("Introduce el id del usuarioo el cual quieras saber su telefono");
         int cod = sc.nextInt();
 
         // La base de datos está en el directorio de trabajo del proyecto.
